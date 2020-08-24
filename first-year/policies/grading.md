@@ -16,7 +16,7 @@ One graded project will be due at the end of every week. This wraps up all the m
 
 ## Participation
 
-You also receive a participation grade each week. This helps you stay active and engaged in the learning process. It's a measure of your level of professionalism, so treat each class like it's your job and you'll do fine. For example, you wouldn't skip a shift at work without letting your manager know. And if you showed up but didn't do the work, you'd be fired. The goal of the program is to train you to be a professional software developer, right? Here's [the grading rubric for participation](policies/participation) if you want more details.
+You also receive a participation grade each week. This helps you stay active and engaged in the learning process. It's a measure of your level of professionalism, so treat each class like it's your job and you'll do fine. For example, you wouldn't skip a shift at work without letting your manager know. And if you showed up but didn't do the work, you'd be fired. The goal of the program is to train you to be a professional software developer, right? Here's [the grading rubric for participation](/first-year/policies/participation) if you want more details.
 
 
 ## Assessments

@@ -43,8 +43,9 @@ Your second year will teach you to pull apart the back end of an application int
 
 ## Fourth Semester
 
-For your final semester, you'll learn to develop mobile applications that can connect to those APIs. You'll also get to branch out into your own interests and career path with a technical internship or independent study.
+For your final semester, you'll learn to develop mobile applications that can connect to those APIs as well as a deeper understanding of advanced computer science concepts. The year will wrap up with a final project pulling together everything you've learned throughout the program.
 
 - CSET-260: Software Principles
-- TECH-104: Internship
+- CSET-270: Mobile Development
+- CSET-280: Capstone Project
 
